@@ -1,5 +1,5 @@
 # Social_Media_Impact_on_Mental_Health
-
+Link: https://naltd3ncte7bkukswogd7n.streamlit.app/ 
 ## Depression Detection in Tweets
 
 This Streamlit app analyzes tweets to detect signs of depression using machine learning algorithms. It provides insights into the sentiment analysis and classification of tweets as depressed or not depressed.
